@@ -1,6 +1,6 @@
 # Connect 4 Knowledge
 
-`connect4_knowledge` is a Rust Connect 4 project built around knowledge-based play inspired by Victor Allis's thesis in [connect4_thesis.pdf](/home/urban/Code/Rust/Connect4/connect4_thesis.pdf).
+`connect4_knowledge` is a Rust Connect 4 project built around knowledge-based play inspired by Victor Allis's thesis, available from [tromp.github.io](https://tromp.github.io/c4/connect4_thesis.pdf).
 
 It combines:
 - a rule-based evaluator for classic Connect 4 strategy patterns,
@@ -241,4 +241,4 @@ Project planning documents:
 - [BUILD_SPEC.md](/home/urban/Code/Rust/Connect4/BUILD_SPEC.md)
 
 Primary reference:
-- [connect4_thesis.pdf](/home/urban/Code/Rust/Connect4/connect4_thesis.pdf)
+- [A Knowledge-based Approach of Connect-Four](https://tromp.github.io/c4/connect4_thesis.pdf)
