@@ -1,0 +1,12 @@
+target/
+
+# Runtime solver state and caches
+book_cache.redb
+book_cache.tar.xz
+book_frontier.json
+book_frontier_branch_*.json
+book_report_snapshot.json
+expand.log
+
+# Local reference material; include only if redistribution is intended
+connect4_thesis.pdf
